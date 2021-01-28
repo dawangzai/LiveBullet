@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bullet_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.wangzai.bullet.view.BulletRecyclerView
+        android:id="@+id/bullet_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:fadingEdge="vertical"
+        android:fadingEdgeLength="30dp"
+        android:requiresFadingEdge="vertical"
+        app:maxHeight="200dp" />
+
+    <TextView
+        android:id="@+id/tv_bullet_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/shape_ff6b00_round"
+        android:textColor="#FFFFFF"
+        android:textSize="12sp"
+        android:visibility="gone"
+        tools:text="99+" />
+</FrameLayout>
