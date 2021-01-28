@@ -2,7 +2,7 @@
 
 本文主要分享下直播中的弹幕、键盘还有带货卡片的交互效果的实现方式
 
-<img src="/gif1.gif" width="30%" height="30%"> <img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/254946a7d2884eebabfee82c37b72bda~tplv-k3u1fbpfcp-watermark.image" width="30%" height="30%"> <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/339ee6a72c4045f0b22fcdea6b04ec10~tplv-k3u1fbpfcp-watermark.image" width="30%" height="30%">
+<img src="https://github.com/dawangzai/LiveBullet/blob/master/gif1.gif" width="30%" height="30%"> <img src="https://github.com/dawangzai/LiveBullet/blob/master/gif2.gif" width="30%" height="30%"> <img src="https://github.com/dawangzai/LiveBullet/blob/master/gif3.gif" width="30%" height="30%">
 
 
 ## 实现思路
