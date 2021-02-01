@@ -1,5 +1,6 @@
 # LiveBullet
-[代码地址](https://juejin.cn/post/6924115098474823694)
+
+https://juejin.cn/post/6924115098474823694
 
 直播中的弹幕、键盘还有带货卡片的交互效果
 
